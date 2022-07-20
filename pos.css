@@ -1,0 +1,32 @@
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+
+}
+.green
+{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 110px;
+    top: 110px;
+}
+.red
+{
+    background-color:red;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 210px;
+    top: 210px;
+}
+.con{
+    height: 250px;
+    width: 250px;
+    background-color: beige;
+    
+}

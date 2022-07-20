@@ -1,0 +1,45 @@
+body{
+    
+    margin: 0;
+    text-align: center;
+    font-family:  'montserrat',cursive ;
+}
+h1{
+    font-family:'Edu VIC WA NT Beginner', cursive;
+    color: #66BFBF;
+    font-size: 60px; 
+    margin-top: 0;
+    margin: 0 auto 0 auto;
+    line-height: 2;  /* line break*/
+}
+.top-container{
+   /* background-color: rgb(38, 125, 125); */
+   background-color:#E7F6F2;
+   font-family: cursive;
+    position: relative;
+    padding-top: 100px;
+}
+h3{
+    color:#66BFBF ;
+}
+h2{
+    color: #66BFBF;
+    font-weight: bolder;
+}
+.top-img
+{
+position: absolute;
+right: 500px;
+top: 50px;
+}
+.bottom-img
+{
+    position: absolute;
+    left: 500px;
+    bottom:350px;
+}
+.dots{
+    margin: auto;
+    width: 40px;
+    border-bottom: 5px dotted gray;
+}
